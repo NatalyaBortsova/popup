@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "homepage": "https://natalyabortsova.github.io/kottansPopup/",
+  "homepage": "https://natalyabortsova.github.io/popup/",
   "scripts": {
     "deploy": "gh-pages -d dist"
   },
